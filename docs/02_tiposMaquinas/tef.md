@@ -3,7 +3,7 @@
 
 É um sistema que permite essas transações financeiras de forma eletrônica. Essa aplicação realiza a comunicação entre o estabelecimento comercial e as administradoras de cartão, o que torna possível as vendas com cartões de crédito, débito e outras diversas formas eletrônicas de pagamento.
 
-[](/imagens/TEF.jpg)
+![](/imagens/TEF.jpg)
 
 
 Temos os seguintes tipos de TEF:
